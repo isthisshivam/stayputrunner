@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StayPut</string>
+<!--      <string name="facebook_app_id">413875000892728</string>-->
+<!--       <string name="facebook_client_token">fe7f735c8b1ac44162edfb501961ce80</string>-->
+      <string name="facebook_app_id">541008847631248</string>
+ 
+
+   
+    <string name="facebook_client_token">f005745ff6b6b3b06d380b314ece52b7</string>
+     
+
+</resources>

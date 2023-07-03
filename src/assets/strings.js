@@ -1,0 +1,22 @@
+export const strings = {
+  Placed: 1,
+  Accepted: 2,
+  Canceled: 3,
+  shipping: 4,
+  "Heading to store": 5,
+  Shopping: 6,
+  "In transit": 7,
+  Completed: 8,
+  viewOrderTip: `Delivery fee is a flat rate based on order size. Estimated tip shown is 18% of order total; actual tip is determined by customer and may differ from estimate. For more info, visit support.stayputdelivery.com.`,
+  afterAcceptingOrder: `Delivery fee is a flat rate based on order size. Estimated tip shown is 18% of order total; actual tip is determined by customer and may differ from estimate. For more info, visit support.stayputdelivery.com.`,
+  earningAndCashout: `You are setup to receive direct deposit payments to your linked account every Friday. You can also initiate an instant payout at any time, for a small transaction fee. For more info, visit support.stayputdelivery.com.`,
+  transactionHistory: `View your payout transaction history, including the account paid to and any associated fees for instant transfers. For more info, visit support.stayputdelivery.com.`,
+  weekelyEarning: `View your payouts and earnings for the selected week, including the account paid to, number of runs that week, and earnings for each day. For more info, visit support.stayputdelivery.com.`,
+  dailyEarning: `View your earnings for the selected day, starting with a daily summary, followed by a breakdown of earnings for each run, including time of day, customer, store, distance, tip amount and total for each run. For more info, visit support.stayputdelivery.com`,
+  paymentMethod: `View the payment accounts you currently have setup to receive payouts from StayPut Delivery. Automatic direct deposits go out every Friday to the account of your choosing. For more info, visit support.stayputdelivery.com.`,
+  paymentCard: `Activate the Apple Pay account and the physical card provided by StayPut Delivery for paying for your customer orders. For more info, visit support.stayputdelivery.com.`,
+  newPaymentCard: `Activate or request a new physical card from StayPut Delivery, used for paying for your customer orders. For more info, visit support.stayputdelivery.com.
+`,
+  addApplePay: `Activate or request an Apple Pay account from StayPut Delivery for paying for your customer orders. For more info, visit support.stayputdelivery.com.`,
+  _chatting: "Chatting",
+};
